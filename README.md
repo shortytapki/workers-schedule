@@ -1,3 +1,16 @@
-# Вариант 1
+# Деплой приложения
 
-- План работы всех сотрудников
+## Запуск с помощью node
+
+```bash
+    npm install
+    npm run serve
+```
+
+## Запуск с помощью docker
+
+```bash
+    docker compose up -d
+```
+
+Проект будет доступен на http://localhost:3000
