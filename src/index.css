@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+main {
+  max-width: 1440px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.roboto-flex {
+  font-family: "Roboto Flex";
+}
